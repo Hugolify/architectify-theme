@@ -1,5 +1,5 @@
 credit:
-  hugolify: un site éco-conçu produit avec <a href="https://www.architectify.fr" target="_blank" rel="noopener noreferrer" title="« Lawyerify » - lien externe">Architectify</a>
+  hugolify: un site éco-conçu produit avec <a href="https://www.architectify.io" target="_blank" rel="noopener noreferrer" title="« Architectify » - lien externe">Architectify</a>
 expertises:
   all: Toutes les expertises du cabinet
   discover_persons: Nos experts en {{ .Title }}
