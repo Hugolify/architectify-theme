@@ -9,11 +9,11 @@ persons:
     consonant: Discover the {{ .Occupation }}
     vowel: Discover the {{ .Occupation }}
 places:
-  all: Tous les offices
-  latest: Derniers offices
-  discover: Découvrez le office
-  discover_persons: L’équipe du office
-  more: Découvrir plus de offices
+  all: All offices
+  latest: Latest offices
+  discover: Discover the office
+  discover_persons: Office’s team
+  more: Discover more offices
   title:
     one: Office
     other: Offices
