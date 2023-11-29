@@ -5,7 +5,7 @@ expertises:
   discover_persons: Our {{ .Title }} experts
 persons:
   all: Everyone in the office
-  discover_occupation: 
+  discover_occupation:
     consonant: Discover the {{ .Occupation }}
     vowel: Discover the {{ .Occupation }}
 places:
