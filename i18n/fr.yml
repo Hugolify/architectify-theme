@@ -5,7 +5,7 @@ expertises:
   discover_persons: Nos experts en {{ .Title }}
 persons:
   all: Toutes les personnes du cabinet
-  discover_occupation: 
+  discover_occupation:
     consonant: Découvir le {{ .Occupation }}
     vowel: Découvir l’{{ .Occupation }}
 places:
